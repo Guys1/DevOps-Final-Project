@@ -6,7 +6,7 @@
                am_pm = "PM";
             String CT = hour+":"+ minute +":"+ second +" "+ am_pm;
             out.println("Current Israel Time: " + CT + "\n");
-         %>
+         
       </center>
    
    </body>
