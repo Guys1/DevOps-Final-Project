@@ -8,7 +8,7 @@
    
    <body>
       <center>
-         <h2>Written By Almog, Liam,Aviv </h2>
+         <h2>Written By Guy, Tamar, Lior </h2>
          <%
             // Set refresh, autoload time as 5 seconds
             response.setIntHeader("Refresh", 5);
