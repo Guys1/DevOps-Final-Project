@@ -9,6 +9,7 @@
    <body>
       <center>
          <h2>Written By Guy, Tamar, Lior </h2>
+         <h1>HIII</h1>
          <%
             // Set refresh, autoload time as 5 seconds
             response.setIntHeader("Refresh", 5);
